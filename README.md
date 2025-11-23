@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Looking to collaborate on: AI/ML projects, computer vision, full-stack web apps, and real-time monitoring systems<br><br>🔍 Looking for: Internship opportunities in Web Development, AI/ML, or Software Engineering<br><br>📚 Currently learning: Machine Learning, Deep Learning, and scalable full-stack architecture with React + Node.js<br><br>💡 Ask me about: Python projects, real-time video processing, OpenCV, Flask, Tkinter UI, automation tools, and custom dashboards<br><br>📫 How to reach me: ayushshinde.contact@gmail.com
+🤝 Looking to collaborate on: AI/ML projects, computer vision, full-stack web apps, and real-time monitoring systems<br><br>🔍 Looking for: Internship opportunities in Web Development, AI/ML, or Software Engineering<br><br>📚 Currently learning: Machine Learning, Deep Learning, and scalable full-stack architecture with React + Node.js<br><br>💡 Ask me about: Python projects, real-time video processing, OpenCV, Flask, Tkinter UI, automation tools, and custom dashboards<br><br>📫 How to reach me: ayyush.404@gmail.com
 
 
 ## 🌐 Socials:
